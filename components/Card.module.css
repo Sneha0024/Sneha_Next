@@ -1,0 +1,16 @@
+.circle-dot{
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+    border-radius: 50%;
+    margin-right: 6px;
+}
+.red-dot{
+    background: #FF3477;
+}
+.yellow-dot{
+    background: #FF9F1A;
+}
+.purple-dot{
+    background: #6248FF;
+}
